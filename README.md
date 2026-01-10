@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Tecas33/Tecas33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
+Desenvolvedor Front-End com 2 anos de experiência, focado na criação de interfaces modernas, responsivas e funcionais para aplicações web.
 
-Here are some ideas to get you started:
+Atuo principalmente com **HTML, CSS e JavaScript**, utilizando **Bootstrap 5** para garantir consistência visual e produtividade. Trabalho com **React** no desenvolvimento de interfaces interativas, organizadas e escaláveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Possuo experiência em **Laravel** para integração com o back-end, participando da construção de sistemas web completos, dashboards administrativos e operações CRUD, utilizando **Livewire** e **Filament** para componentes dinâmicos.
+
+Tenho foco em boas práticas de código, organização de projetos, versionamento com **Git** e colaboração via **GitHub**, sempre buscando evoluir como desenvolvedor front-end.
+
+### 🔹 Tecnologias principais
+**Front-end:** HTML | CSS | JavaScript | React | Bootstrap 5  
+**Back-end:** Laravel | Livewire | Filament  
+**Ferramentas:** Git | GitHub  
+
+### 🔹 Contato & Portfólio
+🌐 Portfólio: [tecas-jose.vercel.app](https://tecas-jose.vercel.app)  
+💻 GitHub: [github.com/Tecas33](https://github.com/Tecas33)
