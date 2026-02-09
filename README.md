@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Tecas José
 
-## 🚀 Full Stack Developer | Especialista em React, Laravel & TALL Stack
+## 🚀 Full Stack Developer | Especialista em React, JavaScript, Laravel & TALL Stack
 
-Sou desenvolvedor Full Stack focado em construir **sistemas modernos, escaláveis e bem estruturados**, unindo a agilidade do ecossistema **React/Next.js/TypeScript** com a robustez do **Laravel, Livewire e Filament**.
+Sou desenvolvedor Full Stack focado em construir **sistemas modernos, escaláveis e bem estruturados**, unindo a agilidade do **React/JavaScript** com a robustez do **Laravel, Livewire e Filament**.
 
 Tenho forte experiência no desenvolvimento de **dashboards administrativos, sistemas de gestão, plataformas web completas e aplicações empresariais**, sempre priorizando **boas práticas, arquitetura limpa e performance**.
 
@@ -25,7 +25,7 @@ Tenho forte experiência no desenvolvimento de **dashboards administrativos, sis
 
 ### Front-end
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
