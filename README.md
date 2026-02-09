@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Tecas José
 
-## 🚀 Full Stack Developer | Especialista em React, JavaScript, Laravel & TALL Stack
+## 🚀 Full Stack Developer | React/Node.js, Laravel & TALL Stack
 
 Sou desenvolvedor Full Stack focado em construir **sistemas modernos, escaláveis e bem estruturados**, unindo a agilidade do **React/JavaScript** com a robustez do **Laravel, Livewire e Filament**.
 
