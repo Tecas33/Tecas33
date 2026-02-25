@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Tecas José
 
-## 🚀 Front-End Developer | React & TypeScript | API-Driven Applications (Node.js, Express & Laravel)
+## 🚀 Full-Stack| React & TypeScript | API-Driven Applications (Node.js, Express & Laravel)
 
 Sou Desenvolvedor Front-End especializado na construção de aplicações modernas orientadas a APIs utilizando **React.js e TypeScript** para criar interfaces escaláveis, performáticas e bem estruturadas.
 
