@@ -2,7 +2,7 @@
 
 ## 🚀 Full-Stack| React & TypeScript | API-Driven Applications (Node.js, Express & Laravel)
 
-Sou Desenvolvedor Front-End especializado na construção de aplicações modernas orientadas a APIs utilizando **React.js e TypeScript** para criar interfaces escaláveis, performáticas e bem estruturadas.
+Sou Desenvolvedor Full-Stack especializado na construção de aplicações modernas orientadas a APIs utilizando **React.js e TypeScript** para criar interfaces escaláveis, performáticas e bem estruturadas.
 
 Tenho experiência prática no desenvolvimento e integração de **APIs RESTful com Node.js, Express e Laravel**, incluindo autenticação segura com **JWT** e persistência de dados com **MongoDB e MySQL**.
 
@@ -15,7 +15,7 @@ Meu foco é construir sistemas organizados, com arquitetura limpa, componentiza�
 ## 🧠 Especialidades
 
 - Desenvolvimento Front-End com React + TypeScript
-- Integração e consumo de APIs RESTful
+- Criação e Integração de consumo de APIs RESTful
 - Autenticação com JWT (Token-Based Authentication)
 - Construção de APIs com Node.js + Express
 - Desenvolvimento Back-End com Laravel
