@@ -2,49 +2,61 @@
 
 ### 🚀 Software Engineer | Full-Stack Developer (React • Node.js • Laravel)
 
-Sou Engenheiro de Software / Desenvolvedor Full-Stack focado na construção de aplicações web modernas, plataformas SaaS escaláveis, dashboards administrativos robustos e ecossistemas orientados a APIs RESTful.
-
-Atuo em todo o ciclo de desenvolvimento — desde a arquitetura de banco de dados e regras de negócio no backend até a criação de interfaces performáticas, limpas e responsivas no frontend.
-
----
-
-### 🧠 Especialidades & Arquitetura
-
-*   **Frontend Avançado:** Desenvolvimento com React.js, TypeScript e Tailwind CSS com foco em componentização reutilizável e estado eficiente.
-*   **Backend & APIs:** Construção de APIs REST robustas e seguras utilizando Node.js (Express) e Laravel (PHP 8), aplicando autenticação via JWT.
-*   **Painéis Administrativos:** Domínio no ecossistema Filament PHP para a criação rápida de dashboards corporativos com níveis granulares de acesso e auditoria.
-*   **Bases de Dados:** Modelagem relacional, otimização de queries e persistência de dados com MySQL e PostgreSQL através de Prisma ORM ou Eloquent.
-*   **DevOps & Deploy:** Provisionamento e hospedagem de ambientes em nuvem e servidores (Vercel, Railway, Hostinger), versionamento estrito com Git/GitHub e transferência segura via SFTP (FileZilla).
+<p align="left">
+  <a href="https://www.linkedin.com/in/tecas-jose"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:tecasjose4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+## 👨‍💻 Sobre Mim
 
-*   **Frontend:** React.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3
-*   **Backend:** PHP (Laravel, Filament PHP, Livewire), Node.js (Express)
-*   **Bases de Dados:** PostgreSQL, MySQL, Prisma ORM
-*   **Infra & Ferramentas:** Docker, Git, GitHub, Vercel, Railway, Hostinger, FileZilla (SFTP)
+Sou um Engenheiro de Software / Desenvolvedor Full-Stack focado na construção de aplicações web modernas, plataformas SaaS escaláveis, dashboards administrativos robustos e ecossistemas orientados a APIs RESTful.
 
----
-
-### 💼 O que eu construo
-
-*   Plataformas SaaS e Sistemas de Gestão Multitenant (múltiplos níveis de acesso).
-*   Dashboards administrativos orientados a dados e relatórios em tempo real.
-*   E-commerces Full-Stack escaláveis com fluxos complexos de carrinho e autenticação.
-*   Aplicações Web integradas a APIs de alta performance.
+Atuo em todo o ciclo de desenvolvimento — desde a arquitetura de banco de dados e regras de negócio complexas no backend até a criação de interfaces modernas, performáticas, limpas e responsivas no frontend.
 
 ---
 
-### 📈 Foco Atual
+## 🛠️ Tecnologias & Ferramentas
 
-*   Arquitetura Limpa (Clean Architecture) e escalabilidade de código.
-*   Segurança, automação de rotinas e tratamento avançado de logs.
-*   Disponibilidade e otimização de performance para o usuário final.
+| Categoria | Stack Tecnológica |
+| :--- | :--- |
+| **⚡ Frontend** | <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-%23f7df1e.svg?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/> |
+| **⚙️ Backend & APIs** | <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/node.js-%236DA55F.svg?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square"/> |
+| **🗄️ Bancos de Dados** | <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white"/> |
+| **🚀 Infra & DevOps** | <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Hostinger-6610F2?style=flat-square&logo=Hostinger&logoColor=white"/> |
 
 ---
 
-### 📬 Contato
+## 💼 O que eu construo
 
-*   💼 **LinkedIn:** https://www.linkedin.com/in/tecas-jose
-*   ✉️ **E-mail:** tecasjose4@gmail.com
+*   **Plataformas SaaS & Multitenant:** Sistemas complexos com múltiplos níveis de acesso (Admin, Professores, Responsáveis).
+*   **Dashboards Avançados:** Criação de painéis corporativos rápidos e seguros utilizando o ecossistema Filament PHP.
+*   **E-commerces Escaláveis:** Aplicações Full-Stack completas com fluxos rígidos de segurança, estados e persistência de dados.
+*   **APIs RESTful de Alta Performance:** Integrações robustas utilizando autenticação via Token (JWT) e Clean Code.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tecas33&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tecas33&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Foco Atual
+
+*   **Arquitetura Limpa (Clean Architecture)** e escalabilidade em grandes volumes de dados.
+*   **Segurança da Informação**, automação de rotinas e tratamento avançado de logs/filas.
+*   **Disponibilidade contínua** e otimização máxima da experiência do usuário final.
+
+---
+
+### 📬 Vamos nos conectar?
+
+Se você está buscando um Engenheiro de Software comprometido com código limpo e focado em gerar valor de negócio, entre em contato:
+
+*   💼 **LinkedIn:** [linkedin.com/in/tecas-jose](https://www.linkedin.com/in/tecas-jose)
+*   ✉️ **E-mail:** [tecasjose4@gmail.com](mailto:tecasjose4@gmail.com)
