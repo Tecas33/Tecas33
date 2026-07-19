@@ -1,193 +1,179 @@
-# 👋 Hi, I'm Tecas José
+# 👋 Olá, eu sou o Tecas José
 
-## Full-Stack Engineer | React • Next.js • Node.js • NestJS • TypeScript • Laravel
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/tecas-jose">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;React+%7C+Next.js+%7C+Node.js;TypeScript+%7C+Laravel+%7C+NestJS;Construindo+aplicações+web+escaláveis" />
 
-  <a href="mailto:tecasjose4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+</div>
 
-  <a href="https://github.com/Tecas33">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<h3 align="center">
+🚀 Desenvolvedor Full-Stack focado em criar aplicações web modernas, escaláveis e de alta qualidade.
+</h3>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/tecas-jose">
+<img src="https://img.shields.io/badge/LinkedIn-Tecas%20José-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:tecasjose4@gmail.com">
+<img src="https://img.shields.io/badge/Email-tecasjose4%40gmail.com-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://github.com/Tecas33">
+<img src="https://img.shields.io/badge/GitHub-Tecas33-black?style=for-the-badge&logo=github">
+</a>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 Sobre mim
 
-I'm a Full-Stack Engineer with 3+ years of experience building modern web applications, scalable APIs, SaaS platforms and business management systems.
+Sou **Desenvolvedor Full-Stack** com experiência na construção de aplicações web completas, APIs REST, sistemas administrativos e plataformas escaláveis.
 
-I work across the entire software development lifecycle — from database design and backend architecture to building responsive, performant and user-focused frontend applications.
+Atuo no desenvolvimento de soluções desde a modelagem de banco de dados, criação de APIs, regras de negócio no backend até interfaces modernas, responsivas e focadas na experiência do usuário.
 
-My main focus is creating clean, maintainable solutions using modern technologies, following good engineering practices and continuously improving my technical skills.
+Tenho interesse em boas práticas de engenharia de software, arquitetura limpa, código sustentável e desenvolvimento de produtos digitais com impacto real.
 
-📍 Based in Luanda, Angola (GMT+1)  
-🌍 Open to Remote Full-Time Opportunities
-
----
-
-# 🛠️ Tech Stack
-
-## Frontend
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-</p>
-
-## Backend
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-</p>
-
-## Databases
-
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white"/>
-</p>
-
-## Tools & DevOps
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white"/>
-</p>
+📍 Luanda, Angola  
+🌍 Disponível para oportunidades remotas internacionais  
+💻 Full-Time Remote Opportunities  
 
 ---
 
-# 🚀 What I Build
+# 🚀 Tecnologias
 
-### 💻 Full-Stack Applications
+## 🎨 Frontend
 
-Building complete web applications with modern frontend architectures, scalable backend services and reliable database structures.
+<div>
 
-### 🔐 Authentication & APIs
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css"/>
 
-Developing secure REST APIs with authentication, authorization, role management and integrations.
+</div>
 
-### 📊 Business Systems
 
-Creating dashboards, administrative panels and management platforms focused on productivity and usability.
+## ⚙️ Backend
 
-### 🛒 E-commerce Platforms
+<div>
 
-Building online stores with product management, authentication, payments structure and scalable backend solutions.
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel"/>
 
----
+</div>
 
-# ⭐ Featured Projects
 
-## 📦 SmartStock
+## 🗄️ Banco de Dados
 
-Inventory management system with:
+<div>
 
-- REST API
-- Authentication
-- Dashboard management
-- Responsive frontend
-- Database modeling
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,prisma"/>
 
-**Stack:**
+</div>
 
-React • Laravel • MySQL • Tailwind CSS
 
----
+## ☁️ Ferramentas & DevOps
 
-## 🛒 Lumina Store
+<div>
 
-Full-Stack e-commerce platform featuring:
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode"/>
 
-- JWT Authentication
-- Product management
-- Admin dashboard
-- Prisma ORM
-- PostgreSQL database
-
-**Stack:**
-
-React • Node.js • Prisma • PostgreSQL
+</div>
 
 ---
 
-##  iPhone 17 Pro Landing Page
+# 🧠 Conhecimentos
 
-Modern landing page focused on:
+<div align="center">
 
-- Responsive design
-- Animations
-- User experience
-- Performance optimization
+| Área | Tecnologias |
+|---|---|
+| Frontend | React, Next.js, TypeScript, Tailwind CSS |
+| Backend | Node.js, NestJS, Laravel, APIs REST |
+| Banco de Dados | PostgreSQL, MySQL, MongoDB |
+| Arquitetura | Clean Code, MVC, REST API |
+| Segurança | JWT, Autenticação, Autorização |
+| Deploy | Vercel, Railway, Docker |
+| Versionamento | Git, GitHub |
 
-**Stack:**
-
-React • TypeScript • Tailwind CSS
-
----
-
-# 🧠 Engineering Practices
-
-- Clean Code
-- REST API Design
-- Database Modeling
-- Component Architecture
-- Responsive Design
-- Authentication & Authorization
-- Git Workflow
-- CI/CD Fundamentals
-- Software Scalability
+</div>
 
 ---
 
-# 📚 Currently Learning
+# 📈 Estatísticas GitHub
 
-- AWS Cloud Services
-- Generative AI Integration
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tecas33&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tecas33&layout=compact&theme=tokyonight"/>
+
+</div>
+
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tecas33&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📊 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tecas33&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🏆 Objetivos atuais
+
+🚀 Evoluir como Full-Stack Engineer  
+☁️ Aprofundar conhecimentos em Cloud e DevOps  
+🤖 Explorar integrações com Inteligência Artificial  
+🏗️ Criar aplicações cada vez mais escaláveis  
+🌍 Colaborar com equipas internacionais de tecnologia  
+
+---
+
+# 📚 Atualmente estudando
+
+- AWS Cloud
+- Arquitetura de Software
 - GraphQL
-- Microservices Architecture
-- Advanced TypeScript Patterns
+- Microserviços
+- CI/CD
+- Inteligência Artificial aplicada ao desenvolvimento
 
 ---
 
-# 📊 GitHub Stats
+# 📫 Contacto
 
-<p align="left">
+<div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Tecas33&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+📧 **tecasjose4@gmail.com**
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tecas33&layout=compact&theme=tokyonight"/>
+<br>
 
-</p>
+💼 **LinkedIn:** Tecas José
+
+<br>
+
+🌎 **GitHub:** github.com/Tecas33
+
+</div>
+
 
 ---
 
-# 🎯 Career Goals
+<div align="center">
 
-I'm looking for opportunities where I can contribute as a Full-Stack Engineer, collaborate with talented teams and help build reliable, scalable and impactful software products.
+### ⭐ Obrigado pela visita!
 
----
+<img src="https://komarev.com/ghpvc/?username=Tecas33&color=blue&style=for-the-badge">
 
-# 📬 Contact
-
-📧 Email: tecasjose4@gmail.com
-
-💼 LinkedIn: linkedin.com/in/tecas-jose
-
-🌎 GitHub: github.com/Tecas33
+</div>
